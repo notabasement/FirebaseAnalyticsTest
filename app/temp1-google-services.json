@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "978210010495",
+    "firebase_url": "https://inkr-dev.firebaseio.com",
+    "project_id": "inkr-dev",
+    "storage_bucket": "inkr-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978210010495:android:e9b93e0e35502d8de6d64a",
+        "android_client_info": {
+          "package_name": "com.inkr.comics.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978210010495-kmt9tt7rmr8vcdjojiv97cdja3v1m3id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inkr.comics.dev",
+            "certificate_hash": "960ef99591260c7f38ca89fb4a1d7099c191c07e"
+          }
+        },
+        {
+          "client_id": "978210010495-90pc0g1rq9ok4nb7g9avn6vng3556ro9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohFRJH--Is11bKiFAwE8g84-Kggyku3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978210010495-90pc0g1rq9ok4nb7g9avn6vng3556ro9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978210010495-27nqpb8uqh8t4c0hlenrp0471efqbr6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nabstudio.inkr.reader.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978210010495:android:4fa8b723fc63466be6d64a",
+        "android_client_info": {
+          "package_name": "com.inkr.subscriptions.classytaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978210010495-8u3k5fo8rgpmgltl1562apaib57sl0hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inkr.subscriptions.classytaxi",
+            "certificate_hash": "81b00d6e63e404675dd71fe352d69bb056d29a09"
+          }
+        },
+        {
+          "client_id": "978210010495-90pc0g1rq9ok4nb7g9avn6vng3556ro9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDohFRJH--Is11bKiFAwE8g84-Kggyku3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978210010495-90pc0g1rq9ok4nb7g9avn6vng3556ro9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978210010495-27nqpb8uqh8t4c0hlenrp0471efqbr6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nabstudio.inkr.reader.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
